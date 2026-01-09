@@ -1,26 +1,59 @@
 # Hi, I'm Hency Raj 👋
 
-🎓 Computer Science (CSBS) student  
-💻 Aspiring Full Stack & WordPress Developer  
+🎓 Computer Science (CSBS) Student  
+💻 Aspiring Software Engineer | Python & Machine Learning  
+🌱 Learning through real-world projects and open-source contributions  
 
 ---
 
-## Skills
-- JavaScript
-- PHP
-- HTML, CSS
-- MySQL
-- Git & GitHub
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, Java  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy  
+- **Deep Learning (Basics):** TensorFlow, Keras  
+- **Web & UI:** Streamlit, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## What I Do
-- Build web-based applications
-- Learn WordPress development
-- Practice clean and structured code
-- Preparing for open-source contributions
+## 🌍 Open Source Contributions
+
+- **Streamlit (Official Project)**  
+  - Fixed a deprecated caching decorator by updating  
+    `@st.experimental_singleton` → `@st.cache_resource`  
+  - Pull Request was **reviewed and merged by Streamlit maintainers**  
+  - Gained experience working with real production code and GitHub workflows  
 
 ---
 
-## Projects
-- Web applications using frontend & backend
+## 📌 Featured Projects
+
+- **NSE Stock Predictor**  
+  Machine Learning & LSTM-based stock price prediction app with Streamlit UI  
+
+- **Delivery Delay Prediction System**  
+  Random Forest model to predict delivery delays using real-world order data  
+
+- **Self-Driving Demo (Open Source Contribution)**  
+  Contributed a compatibility fix to ensure the app works with newer Streamlit versions  
+
+---
+
+## 🚀 What I Do
+
+- Build end-to-end Machine Learning projects  
+- Work with real datasets and model pipelines  
+- Improve existing codebases through open-source contributions  
+- Focus on clean, readable, and maintainable code  
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:https://github.com/Hencyraj  
+- **LinkedIn:https://www.linkedin.com/in/hency-raj-2b311b254  
+- **Email:hencyraj21@gmail.com  
+
+---
+
+⭐ *Always learning, improving, and contributing to real-world software.*
