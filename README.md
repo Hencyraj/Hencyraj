@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hency Raj 👋
 
-<!--
-**Hencyraj/Hencyraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (CSBS) student  
+💻 Aspiring Full Stack & WordPress Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- PHP
+- HTML, CSS
+- MySQL
+- Git & GitHub
+
+---
+
+## What I Do
+- Build web-based applications
+- Learn WordPress development
+- Practice clean and structured code
+- Preparing for open-source contributions
+
+---
+
+## Projects
+- Web applications using frontend & backend
