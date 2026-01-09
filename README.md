@@ -52,7 +52,8 @@
 
 - **GitHub:https://github.com/Hencyraj  
 - **LinkedIn:https://www.linkedin.com/in/hency-raj-2b311b254  
-- **Email:hencyraj21@gmail.com  
+- **Email:hencyraj21@gmail.com
+- **Resume: https://drive.google.com/file/d/1tiXpgwIocAeQ--pioH0MX-AdkhE01Kpz/view
 
 ---
 
