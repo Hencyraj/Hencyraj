@@ -8,19 +8,13 @@
 
 ## 🛠️ Skills & Technologies
 
-- Programming Languages: Python, Java
-
-Frontend Technologies: HTML, CSS, JavaScript, Streamlit
-
-Backend Technologies: Flask, Django (Basics), Java (Servlets/JSP – Basics)
-
-Databases: MySQL, SQLite
-
-Machine Learning: Scikit-learn, Pandas, NumPy
-
-Deep Learning (Basics): TensorFlow, Keras
-
-Tools & Platforms: Git, GitHub, VS Code
+Programming: Python | Java
+Frontend: HTML | CSS | JavaScript | Streamlit
+Backend: Flask | Django (Basics) | Java Servlets/JSP (Basics)
+Database: MySQL | SQLite
+ML: Scikit-learn | Pandas | NumPy
+DL: TensorFlow (Basics) | Keras (Basics)
+Tools: Git | GitHub | VS Code
 
 ---
 
