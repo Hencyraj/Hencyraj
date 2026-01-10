@@ -8,13 +8,13 @@
 
 ## 🛠️ Skills & Technologies
 
-Programming: Python | Java
-Frontend: HTML | CSS | JavaScript | Streamlit
-Backend: Flask | Django (Basics) | Java Servlets/JSP (Basics)
-Database: MySQL | SQLite
-ML: Scikit-learn | Pandas | NumPy
-DL: TensorFlow (Basics) | Keras (Basics)
-Tools: Git | GitHub | VS Code
+💻 Programming : Python | Java
+🎨 Frontend     : HTML | CSS | JavaScript | Streamlit
+⚙️ Backend      : Flask | Django (Basics) | Java Servlets/JSP (Basics)
+🗄️ Database    : MySQL | SQLite
+🤖 ML / DL      : Scikit-learn | Pandas | NumPy | TensorFlow (Basics) | Keras (Basics)
+🛠️ Tools        : Git | GitHub | VS Code
+
 
 ---
 
