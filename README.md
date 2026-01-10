@@ -1,71 +1,60 @@
-Hi, I'm Hency Raj 👋
+# Hi, I'm Hency Raj 👋
 
-🎓 Computer Science (CSBS – Computer Science & Business Systems) Student
-💻 Aspiring Software Engineer | Python & Machine Learning
-🌱 Learning through real-world projects and open-source contributions
+🎓 Computer Science (CSBS) Student  
+💻 Aspiring Software Engineer | Python & Machine Learning  
+🌱 Learning through real-world projects and open-source contributions  
 
-🧩 Technical Skills
-Programming : Python | Java
-Frontend    : HTML | CSS | JavaScript | Streamlit
-Backend     : Flask | Django (Basics)
-Database    : MySQL | SQLite
-ML          : Scikit-learn | Pandas | NumPy
-DL          : TensorFlow (Basics) | Keras (Basics)
-Tools       : Git | GitHub | VS Code
+---
 
+## 🛠️ Skills & Technologies
 
-⬆️
-✔ Each category is on its own line
-✔ Lines are short, so GitHub will NOT wrap them
-✔ Clean on dark & light mode
+- **Programming:** Python, Java, JavaScript (Basics)  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy  
+- **Deep Learning (Basics):** TensorFlow, Keras  
+- **Web & UI:** Streamlit, HTML, CSS, Responsive Design  
+- **Tools:** Git, GitHub, VS Code, Virtual Environments  
 
-🌍 Open Source Contributions
+---
 
-Streamlit (Official Project)
+## 🌍 Open Source Contributions
 
-Fixed a deprecated caching decorator
-@st.experimental_singleton → @st.cache_resource
+- **Streamlit (Official Project)**  
+  - Fixed a deprecated caching decorator by updating  
+    `@st.experimental_singleton` → `@st.cache_resource`  
+  - Pull Request was **reviewed and merged by Streamlit maintainers**  
+  - Gained experience working with real production code and GitHub workflows  
 
-Pull Request was reviewed and merged by Streamlit maintainers
+---
 
-Worked with real production-level code and GitHub workflows
+## 📌 Featured Projects
 
-📌 Featured Projects
+- **NSE Stock Predictor**  
+  Machine Learning & LSTM-based stock price prediction app with Streamlit UI  
 
-NSE Stock Predictor
+- **Delivery Delay Prediction System**  
+  Random Forest model to predict delivery delays using real-world order data  
 
-Machine Learning & LSTM-based stock price prediction app
+- **Self-Driving Demo (Open Source Contribution)**  
+  Contributed a compatibility fix to ensure the app works with newer Streamlit versions  
 
-Built with an interactive Streamlit UI
+---
 
-Delivery Delay Prediction System
+## 🚀 What I Do
 
-Random Forest model to predict delivery delays
+- Build end-to-end Machine Learning projects  
+- Work with real datasets and model pipelines  
+- Improve existing codebases through open-source contributions  
+- Focus on clean, readable, and maintainable code  
 
-Used real-world order and logistics data
+---
 
-Self-Driving Demo (Open Source Contribution)
+## 📫 Connect With Me
 
-Contributed a compatibility fix for newer Streamlit versions
+- **GitHub:** https://github.com/Hencyraj  
+- **LinkedIn:** https://www.linkedin.com/in/hency-raj-2b311b254  
+- **Email:** hencyraj21@gmail.com  
+- **Resume:** https://drive.google.com/file/d/1tiXpgwIocAeQ--pioH0MX-AdkhE01Kpz/view  
 
-🚀 What I Do
+---
 
-Build end-to-end Machine Learning projects
-
-Work with real datasets and ML pipelines
-
-Contribute to open-source software
-
-Write clean, readable, and maintainable code
-
-📫 Connect With Me
-
-GitHub: https://github.com/Hencyraj
-
-LinkedIn: https://www.linkedin.com/in/hency-raj-2b311b254
-
-Email: hencyraj21@gmail.com
-
-Resume: https://drive.google.com/file/d/1tiXpgwIocAeQ--pioH0MX-AdkhE01Kpz/view
-
-⭐ Always learning, improving, and contributing to real-world software.
+⭐ *Always learning, improving, and contributing to real-world software.*
