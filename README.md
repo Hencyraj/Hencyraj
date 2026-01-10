@@ -36,17 +36,7 @@
 
 - **Self-Driving Demo (Open Source Contribution)**  
   Contributed a compatibility fix to ensure the app works with newer Streamlit versions  
-
-
-## 📊 GitHub Stats
-
-![Hency Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hencyraj&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hencyraj&layout=compact&theme=dark&hide_border=true)
-
-
 ---
-
 
 ## 🚀 What I Do
 
